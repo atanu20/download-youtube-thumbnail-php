@@ -1,7 +1,5 @@
 
 
-
-
 <?php
   if(isset($_POST['button'])){
        $imgUrl = $_POST['imgurl'];
